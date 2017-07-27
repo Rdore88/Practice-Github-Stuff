@@ -2,3 +2,9 @@
   background: red;
   padding: 5em;
 }
+
+.list {
+  background-color: blue;
+  color: white;
+  padding: 2em;
+}
